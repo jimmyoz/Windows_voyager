@@ -62,3 +62,5 @@ time="2022-04-02T09:38:56+08:00" level=warning msg="connect to bootnode /ip4/18.
 time="2022-04-02T09:38:56+08:00" level=warning msg="discover to bootnode /ip4/18.216.66.9/tcp/1634/p2p/16Uiu2HAmExSHEV4FPxQMfgREDX6KX5BhyUb2aLQQTP5wgUyc7un9"
 time="2022-04-02T09:39:26+08:00" level=warning msg="connect to bootnode /ip4/18.216.66.9/tcp/1634/p2p/16Uiu2HAmExSHEV4FPxQMfgREDX6KX5BhyUb2aLQQTP5wgUyc7un9"
 time="2022-04-02T09:39:26+08:00" level=warning msg="discover to bootnode /ip4/18.216.66.9/tcp/1634/p2p/16Uiu2HAmExSHEV4FPxQMfgREDX6KX5BhyUb2aLQQTP5wgUyc7un9"
+time="2022-04-02T09:39:56+08:00" level=warning msg="connect to bootnode /ip4/18.216.66.9/tcp/1634/p2p/16Uiu2HAmExSHEV4FPxQMfgREDX6KX5BhyUb2aLQQTP5wgUyc7un9"
+time="2022-04-02T09:39:56+08:00" level=warning msg="discover to bootnode /ip4/18.216.66.9/tcp/1634/p2p/16Uiu2HAmExSHEV4FPxQMfgREDX6KX5BhyUb2aLQQTP5wgUyc7un9"
